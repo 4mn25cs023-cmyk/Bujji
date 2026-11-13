@@ -1,2 +1,7 @@
 hi
+<<<<<<< HEAD
 good morning
+=======
+bye 
+it
+>>>>>>> 7882174 (msg)
